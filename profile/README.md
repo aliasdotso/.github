@@ -1,6 +1,6 @@
-## Hi there, welcome to Alias. 👋
+## Welcome to Alias. 👋
 
-Beautiful domain registration and management for the rest of us.
+Beautifully simple domain management for all.
 
 ![1500x500-3](https://github.com/aliasdotso/.github/assets/123112/f4305d20-3827-47ab-8a20-b859a817f6d2)
 
