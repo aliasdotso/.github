@@ -2,7 +2,7 @@
 
 Beautifully simple domain management for all.
 
-![1500x500-3](https://github.com/aliasdotso/.github/assets/123112/f4305d20-3827-47ab-8a20-b859a817f6d2)
+![banner-1012x506](https://github.com/aliasdotso/.github/assets/91486218/a73c2a06-29de-4acb-809e-cda1617a3424)
 
 
 <!--
