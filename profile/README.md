@@ -1,4 +1,4 @@
-## Welcome to Alias. 👋
+## Welcome to Hyperlinks. 👋
 
 Beautifully simple domain management for all.
 
